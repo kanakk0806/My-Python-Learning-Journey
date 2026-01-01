@@ -1,0 +1,28 @@
+#strings
+
+name= "bro"
+food= "pizza"
+email= "bro123@fake.com"
+print(f"Hello {name}")
+print(f"You like {food}")
+print(f"your email is {email}")
+
+#integers
+
+age = 17
+qty = 3
+num_of_students = 30
+print(f"you are {age} years old")
+print(f"you bought {qty} items")
+print(f"your class has {num_of_students} students")
+
+#float
+
+dist = 5.5
+velocity = 30.5
+weight = 12.345
+
+#boolean
+
+is_student = True
+is_sale = False
